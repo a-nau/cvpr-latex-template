@@ -1,5 +1,7 @@
 # CVPR / ICCV LaTeX Template⚡
 
+> This fork extends the [original repo](https://github.com/apoorvkh/cvpr-latex-template) by the usage of [VS Code Devcontainers](https://code.visualstudio.com/docs/devcontainers/containers). Thus, no need for a local LaTeX installation with a hassle-free Docker-based setup (Docker installation is required). For details on the usage and features see [latex-devcontainer](https://github.com/a-nau/latex-devcontainer) (works for any LaTeX project).
+
 This repo contains quickstart code for writing CVPR/ICCV papers in LaTeX. It is a direct extension of the [official template](https://github.com/MCG-NKU/CVPR_Template) (for CVPR 2022 and beyond) and is submission-ready. **Up-to-date for CVPR and ICCV 2023.**
 
 - **Available on [Overleaf](https://www.overleaf.com/read/zkbzbtcnrmvm)!** (Menu > Actions > Copy Project)
